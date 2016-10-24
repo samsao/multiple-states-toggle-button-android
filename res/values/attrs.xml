@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <declare-styleable name="MultipleStatesToggleButtonOptions">
+    <attr name="state_one" format="string"/>
+    <attr name="state_two" format="string"/>
+    <attr name="state_three" format="string"/>
+  </declare-styleable>
+
+</resources>
